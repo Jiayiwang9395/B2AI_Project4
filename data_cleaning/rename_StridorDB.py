@@ -14,7 +14,8 @@ def get_breath_type(filename):
         return 'Deep'
     elif any(term in filename_lower for term in ['rainbow passage', 'rp', 'ravid', '7m', '7a']):
         return 'RP'
-    return ''
+    else:
+        return 'NA'
 
 def get_device_type(filename):
     filename_lower = filename.lower()
@@ -26,7 +27,8 @@ def get_device_type(filename):
         return 'iPad'
     elif any(term in filename_lower for term in ['1inch', '1in']):
         return '1inch'
-    return ''
+    else:
+        return 'NA'
 
 def should_rename_file(filename):
     return filename.lower().endswith('.wav')
@@ -48,11 +50,11 @@ def rename_files(directory):
                 subject_type = 'S' if is_patient else 'NS'
                 
                 # Start with no counter
-                counter = 0
+                counter = 1
                 while True:
                     new_parts = [folder_name]
                     if counter > 0:
-                        new_parts.append(str(counter))
+                        new_parts.append('ses-' + str(counter))
                     if breath_type:
                         new_parts.append(breath_type)
                     if device_type:
