@@ -1,0 +1,12 @@
+Patient,Final_Prediction,Actual
+Control-12C,0,0
+Control-16C,0,0
+Control-1C,0,0
+Control-2C,0,0
+Patient-19,0,0
+Patient-21,0,1
+Patient-22,1,1
+Patient-3,0,1
+Patient-32,0,1
+Patient-39,1,1
+Patient-40,1,1

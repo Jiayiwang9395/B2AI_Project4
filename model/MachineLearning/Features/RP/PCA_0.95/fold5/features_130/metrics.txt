@@ -1,0 +1,5 @@
+Accuracy: 72.73%
+F1 Score: 0.67
+Confusion Matrix:
+[[5 0]
+ [3 3]]

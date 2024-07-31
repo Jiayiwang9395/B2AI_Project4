@@ -1,8 +1,0 @@
-/data/jiayiwang/summerschool/data/chunks_DB/chunk_Stridor/Patient-27/Patient-27_ses-1_FIMO_iPad_S_chunk2.wav 1
-/data/jiayiwang/summerschool/data/chunks_DB/chunk_Stridor/Patient-27/Patient-27_ses-1_FIMO_iPad_S_chunk5.wav 1
-/data/jiayiwang/summerschool/data/chunks_DB/chunk_Stridor/Patient-27/Patient-27_ses-1_FIMO_Avid_S_chunk8.wav 1
-/data/jiayiwang/summerschool/data/chunks_DB/chunk_Stridor/Control-7C/Control-7C_ses-1_FIMO_iPad_NS_chunk4.wav 0
-/data/jiayiwang/summerschool/data/chunks_DB/chunk_Stridor/Control-7C/Control-7C_ses-1_FIMO_iPad_NS_chunk5.wav 0
-/data/jiayiwang/summerschool/data/chunks_DB/chunk_Stridor/Control-7C/Control-7C_ses-1_FIMO_iPad_NS_chunk2.wav 0
-/data/jiayiwang/summerschool/data/chunks_DB/chunk_Stridor/Control-7C/Control-7C_ses-1_FIMO_Avid_NS_chunk3.wav 0
-/data/jiayiwang/summerschool/data/chunks_DB/chunk_Stridor/Control-7C/Control-7C_ses-1_FIMO_Avid_NS_chunk4.wav 0

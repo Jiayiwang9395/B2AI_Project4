@@ -1,0 +1,14 @@
+Test Accuracy: 0.7922077922077922
+F1 Score: 0.7911793137378517
+Precision: 0.7904345654345654
+Recall: 0.7922077922077922
+AUC: 0.8421945701357466
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.67      0.69        52
+           1       0.84      0.85      0.84       102
+
+    accuracy                           0.79       154
+   macro avg       0.77      0.76      0.77       154
+weighted avg       0.79      0.79      0.79       154
